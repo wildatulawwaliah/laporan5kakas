@@ -1,2 +1,4 @@
 # laporan5kakas
-wilda,nurul, asbar
+Wildatul Awwaliah
+Nurul Hasnah
+Asbar
